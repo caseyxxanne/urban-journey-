@@ -1,0 +1,106 @@
+h1{
+background-color: #f2f4f7;
+font-family: Raleway Dots, cursive;
+font-size: 10vh;
+margin-top: 3%;
+text-align: center;
+color: 
+}
+
+body{
+	background-color: #f2f4f7;
+}
+.navigation{
+	
+	font-family: Lilita One, cursive;
+    font-size: 5vh;
+    text-align: center;
+	margin-left: 8vw;
+	margin-top: 14px;
+	margin-bottom: 20x;
+	height: 12vh;
+}
+a{
+	margin-right:70px;
+	text-decoration:none;
+	color:#4a4a48;
+	
+}
+ a:hover{
+	color: #c19898; 
+ }
+ 
+ a:active{
+	 text-decoration: underline;
+ }
+
+
+img{
+	
+	padding: 46px;
+	margin-left: 190px;
+	margin-top: 100px;
+	box-shadow: 28px 15px 5px grey;
+	
+}
+}
+
+h2{
+	text-align: center;
+	color:green;
+	font-family: Raleway Dots, cursive;
+}
+p {
+	text-align: center;
+	margin-top: -71px;
+	font-size: 18px;
+	margin-left: 6vw;
+}
+
+.details p{
+	text-align: center;
+	margin-top: 9vh;
+}
+
+input{
+	size: 340px;
+}
+
+pre{
+	align-items:center;
+}
+input[type=text], input[type=password] {
+  width:20vw;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #c19898;
+}
+
+.registerbtn {
+  background-color: #4a4a48;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: solid;
+  cursor: pointer;
+  width: 20%;
+  opacity: 0.9;
+  height: 50%;
+  margin-left:39.5vw;
+}
+.container{
+	text-align:center;
+}
+pre{
+	margin-left:-8vw;
+}
+button{
+	margin-left:-8vw;
+}
+textarea{
+	margin-top: -5vh;
+	margin-left:30.5vw;
+	background: #c19898;
+}
